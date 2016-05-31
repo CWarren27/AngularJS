@@ -1,0 +1,29 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "Example of Node and AngularJS",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWarren27/AngularJSProjects.git"
+  },
+  "keywords": [
+    "git",
+    "nodejs",
+    "angularjs",
+    "express"
+  ],
+  "author": "CWarren27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CWarren27/AngularJSProjects/issues"
+  },
+  "homepage": "https://github.com/CWarren27/AngularJSProjects#readme"
+}
